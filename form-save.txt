@@ -1,0 +1,30 @@
+Nama: rafli
+Tanggal: 2024-12-12
+Hari: senin
+Waktu: 10:12
+
+Nama: rafli
+Tanggal: 1212-02-12
+Hari: senin
+Waktu: 10:00
+
+Nama: rafli
+Tanggal: 0323-12-23
+Hari: senin
+Waktu: 10:00
+
+Nama: rafli
+Tanggal: 32323-02-23
+Hari: senin
+Waktu: 10:00
+
+Nama: dwed
+Tanggal: 0323-02-23
+Hari: senin
+Waktu: 10:00
+
+Nama: rafli
+Tanggal: 1212-12-12
+Hari: senin
+Waktu: 10:00
+
